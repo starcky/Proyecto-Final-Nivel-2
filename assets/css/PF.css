@@ -1,0 +1,29 @@
+
+.seccion1{
+	background-color: #B0D8D5;
+	padding-bottom: 30px;
+}
+.titulo {
+	padding-top: 50px;
+}
+
+.vermas{
+	color: black;
+}
+.icon-check, .icon-times{
+	font-size: 200px;
+}
+
+/*.icon-chevron{
+	transform: rotate(180deg);
+}*/
+
+.footer{
+	background-color: ;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.si{
+	color:blue;
+}
